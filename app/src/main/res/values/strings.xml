@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CoursesProject</string>
+    <string name="courses_title">EDTeam</string>
+    <string name="available_courses">Cursos Disponibles</string>
+    <string name="buy_button">Compralo ahora!</string>
+    <string name="what_will_you_learn">¿Que aprenderas?</string>
+</resources>
